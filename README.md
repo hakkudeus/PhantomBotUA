@@ -1,6 +1,6 @@
 # PhantomBotUA
 
-Це неофіційний переклад PhantomBot на українську.
+Це неофіційний переклад [PhantomBot](https://github.com/PhantomBot/PhantomBot) на українську.
 
 ## Зміст
 
